@@ -1,0 +1,6 @@
+C:\Users\eli\source\repos\MatematicaDiscreta\MatematicaDiscreta\bin\Debug\MatematicaDiscreta.exe.config
+C:\Users\eli\source\repos\MatematicaDiscreta\MatematicaDiscreta\bin\Debug\MatematicaDiscreta.exe
+C:\Users\eli\source\repos\MatematicaDiscreta\MatematicaDiscreta\bin\Debug\MatematicaDiscreta.pdb
+C:\Users\eli\source\repos\MatematicaDiscreta\MatematicaDiscreta\obj\Debug\MatematicaDiscreta.csprojAssemblyReference.cache
+C:\Users\eli\source\repos\MatematicaDiscreta\MatematicaDiscreta\obj\Debug\MatematicaDiscreta.exe
+C:\Users\eli\source\repos\MatematicaDiscreta\MatematicaDiscreta\obj\Debug\MatematicaDiscreta.pdb
