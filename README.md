@@ -24,7 +24,7 @@
 ###### par criar aresta deve adicionar as vertice que a arasta se liga, separando com o ','.
                                                  1,2
 
-##### ele tambem faz algumas consistências, como
+#### ele tambem faz algumas consistências, como
 - Deve conter pelo menos 1 número.
 - Deve conter apenas número.
 - Não pode conter número duplicados.
